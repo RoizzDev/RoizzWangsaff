@@ -250,7 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         const systemResponse = {
             role: "model",
-            parts: [{ text: "Oke, siap! Aku Roizz Ai, teman ngobrolmu. Ada yang bisa dibantu?" }]
+            parts: [{ text: "Hai Saya Roizz Ai siap berkawan dengan awak" }]
         };
 
 

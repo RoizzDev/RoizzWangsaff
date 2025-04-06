@@ -847,7 +847,7 @@ document.addEventListener('DOMContentLoaded', () => {
      }
 
 
-      addMessageToUI([{ text: "Hai! Aku Roizz Ai, siap ngobrol sama kamu. Ada apa nih?" }], false);
+      addMessageToUI([{ text: "Hai! Aku Roizz Ai, sedia membantu anda ada apa apa nak cerita ke" }], false);
       clearImageSelection();
 
 });

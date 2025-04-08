@@ -764,27 +764,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const musicItems = [
         { 
-            src: "https://c.top4top.io/m_32186x4wx1.mp3", 
+            src: "https://g.top4top.io/m_3385pc41z1.mp3", 
             thumbnail: "https://via.placeholder.com/100/000000/FFFFFF/?text=LDR", // Placeholder thumbnail
             title: "White Mustang - Lana Del Rey" 
         },
         { 
-            src: "https://c.top4top.io/m_32186x4wx1.mp3", 
+            src: "https://g.top4top.io/m_3385pc41z1.mp3", 
             thumbnail: "https://via.placeholder.com/100/000000/FFFFFF/?text=LDR", // Placeholder thumbnail
             title: "Brooklyn Baby - Lana Del Rey" 
         },
         { 
-            src: "https://c.top4top.io/m_32186x4wx1.mp3", 
+            src: "https://g.top4top.io/m_3385pc41z1.mp3", 
             thumbnail: "https://via.placeholder.com/100/000000/FFFFFF/?text=LDR", // Placeholder thumbnail
             title: "West Coast - Lana Del Rey" 
         },
         { 
-            src: "https://c.top4top.io/m_32186x4wx1.mp3", 
+            src: "https://g.top4top.io/m_3385pc41z1.mp3", 
             thumbnail: "https://via.placeholder.com/100/000000/FFFFFF/?text=PG", // Placeholder thumbnail
             title: "Iris - Pastel Ghost" 
         },
         { 
-            src: "https://c.top4top.io/m_32186x4wx1.mp3", 
+            src: "https://g.top4top.io/m_3385pc41z1.mp3", 
             thumbnail: "https://via.placeholder.com/100/000000/FFFFFF/?text=DV", // Placeholder thumbnail
             title: "Rabstvo - Do Vstrechi" 
         }

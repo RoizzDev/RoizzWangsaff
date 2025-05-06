@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const musicPlayerControls = document.getElementById('music-player-controls');
 
 
-    const GEMINI_API_KEY = "AIzaSyCmuaAEeY9WCNVZczLXpZl28mKS87SsO8A";
+    const GEMINI_API_KEY = "AIzaSyBlCD1ceI673bhSD_632zLqDWjW6Jss658";
     const GEMINI_MODEL = "gemini-2.0-flash";
     const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
 

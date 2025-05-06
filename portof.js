@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-        if (!GEMINI_API_KEY || GEMINI_API_KEY === "YOUR_API_KEY") {
+        if (!GEMINI_API_KEY || GEMINI_API_KEY === "AIzaSyBlCD1ceI673bhSD_632zLqDWjW6Jss658") {
             hideTypingIndicator();
             const errorParts = [{ text: "Kunci API Gemini belum diatur. Silakan periksa file JS Anda." }];
             addMessageToUI(errorParts, false);
